@@ -19,7 +19,6 @@ It's also the very first SwiftUI application I've written on my own, so it holds
 - Xcode
 
 ### Screenshot
-<img width="355" height="708" alt="Ekran Resmi 2025-07-14 15 09 29" src="https://github.com/user-attachments/assets/aa725d43-61ec-4bcf-bf25-fba9202cc6c6" />
----
+<img width="361" height="718" alt="Ekran Resmi 2025-07-14 15 10 26" src="https://github.com/user-attachments/assets/67850d9a-7d30-4386-ac0b-a66922cee415" />
 
 Feel free to try it out or fork it if you're also starting with SwiftUI. 😄
