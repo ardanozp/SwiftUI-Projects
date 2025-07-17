@@ -15,6 +15,9 @@ Each project is organized into its own folder named by the day and project title
 - **Day02 - Temperature Converter**  
   An app to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
+- **Day03 - Temperature Converter**  
+  Guessing the countries flags.
+
 *(More projects to come as I progress through the course.)*
 
 ---
