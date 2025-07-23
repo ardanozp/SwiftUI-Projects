@@ -7,21 +7,6 @@ Each project is organized into its own folder named by the day and project title
 
 ---
 
-## Projects List
-
-- **Day01 - WeSplit**  
-  A simple app to split a check amount among people, including tip calculation.
-
-- **Day02 - Temperature Converter**  
-  An app to convert temperatures between Celsius, Fahrenheit, and Kelvin.
-
-- **Day03 - Temperature Converter**  
-  Guessing the countries flags.
-
-*(More projects to come as I progress through the course.)*
-
----
-
 ## About Me
 
 I'm Ardan, a software developer passionate about SwiftUI and iOS development.  
