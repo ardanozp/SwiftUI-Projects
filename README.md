@@ -3,7 +3,7 @@
 Welcome to my **SwiftUI Projects** repository!  
 This repository contains the apps and projects I created while following the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui/) course by Paul Hudson.
 
-Each project is organized into its own folder named by the day and project title. This is my first attempt at building SwiftUI apps, and I am excited to share my learning journey.
+Each project is organized into its own folder and named by project title. This is my first attempt at building SwiftUI apps, and I am excited to share my learning journey.
 
 ---
 
